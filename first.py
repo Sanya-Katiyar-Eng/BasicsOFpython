@@ -179,7 +179,7 @@ for i in range(len(t)):
     if min>t[i]:
         min=t[i]
 print("min in tuple :",min)
-num=input("enter the value for finding value in tuple or not ")
+num=input("enter the value for finding value in tuple or ")
 if num in t:
     print("num find")
 else:
